@@ -12,7 +12,7 @@ redirect_from:
 
 # 🎓 学历
 - *2025.09 - 暂未毕业*,  <a href="https://www.snnu.edu.cn/"><img class="svg" src="/images/SNNU.svg" width="23pt"></a>陕西师范大学 人工智能与计算机学院, 陕西西安, 本科
-- *2022.09 - 2025.06*,  <a href="https://dg8z.dgjy.net/)/"><img class="svg" src="/images/DG8Z" width="23pt">东莞市第八高级中学 制造科学与工程学院, 广东东莞, 高中
+- *2022.09 - 2025.06*,  <a href="https://dg8z.dgjy.net/"><img class="svg" src="/images/DG8Z.svg" width="23pt">东莞市第八高级中学 广东东莞, 高中
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -41,6 +41,7 @@ redirect_from:
 
 # 💻 工作实习
 - 暂无
+
 
 
 
