@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "许齐鑫"
-  avatar           : "images/xiaoxiang.png"
+  avatar           : "https://cdn.jsdelivr.net/gh/AzureLandin/azurelandin.github.io/images/xiaoxiang.png"
   bio              : "陕西师范大学"
   location         : "陕西 西安"
   employer         : #"Hefei General Machinery Research Institute"
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
