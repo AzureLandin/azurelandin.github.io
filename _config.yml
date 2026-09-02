@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 我的博客
-description: 记录技术、生活与思考
-keywords: [博客, 技术, 随笔]
-author: 你的名字
+title: Azure's Blog
+description: 花有重开日，人无再少年
+keywords: [博客, 技术, 学习, 随笔]
+author: AzureLandin
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://AzureLandin.github.io
+url: https://azurelandin.github.io
 permalink: posts/:title/
 permalink_defaults:
 pretty_urls:
