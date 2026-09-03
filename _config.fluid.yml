@@ -1,0 +1,19 @@
+# Fluid 主题配置（自动覆盖 node_modules/hexo-theme-fluid/_config.yml）
+# 完整配置项见: https://hexo.fluid-dev.com/docs/guide/
+
+# 导航栏左侧标题，空则使用站点配置的 title
+navbar:
+  blog_title: ""
+
+# 首页副标题，空则使用站点配置的 subtitle（花有重开日，人无再少年）
+index:
+  slogan:
+    text: ""
+
+# 本地搜索（Fluid 自带生成器）
+search:
+  enable: true
+
+# KaTeX 公式样式（服务端渲染，只需加载 CSS）
+custom_css:
+  - /css/katex.min.css
